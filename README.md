@@ -1,6 +1,3 @@
-<img width="1115" height="584" alt="ew" src="https://github.com/user-attachments/assets/1a027618-2d01-4223-aab5-af1b2aecf834" />
-<img width="444" height="434" alt="f" src="https://github.com/user-attachments/assets/fbb6c64d-a58f-4680-953c-9acfcb7f646d" />
-<img width="1002" height="522" alt="Capture" src="https://github.com/user-attachments/assets/80aec671-9d98-4386-a488-c06a928ed21d" />
 # 🤖 AI Automation Dashboard
 
 A modern web-based automation system that allows users to upload CSV files and trigger automated workflows using n8n.
@@ -27,6 +24,13 @@ A modern web-based automation system that allows users to upload CSV files and t
 - n8n (Automation backend)
 
 ---
+## ⚙️ How It Works
+
+1. User uploads CSV file
+2. React sends file to n8n webhook
+3. n8n processes workflow
+4. Emails are sent automatically
+5. Activity is logged in UI
 
 ## 📸 Screenshots
 
@@ -41,17 +45,11 @@ A modern web-based automation system that allows users to upload CSV files and t
 > 
 ---
 
-## ⚙️ How It Works
-
-1. User uploads CSV file
-2. React sends file to n8n webhook
-3. n8n processes workflow
-4. Emails are sent automatically
-5. Activity is logged in UI
 
    ## 🌐 Live Demo
 
-_Not deployed (runs locally via n8n)
+Not deployed (runs locally via n8n)
+https://www.loom.com/share/2e801fad09d14dcf92515a94c6c517e0
 
 ## 👨‍💻 Author
 
