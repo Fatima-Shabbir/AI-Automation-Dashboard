@@ -40,6 +40,10 @@ A modern web-based automation system that allows users to upload CSV files and t
 4. Emails are sent automatically
 5. Activity is logged in UI
 
+   ## 🌐 Live Demo
+
+_Not deployed (runs locally via n8n)
+
 ## 👨‍💻 Author
 
 Fatima Shabbir  
