@@ -46,7 +46,7 @@ A modern web-based automation system that allows users to upload CSV files and t
 ---
 
 
-   ## 🌐 Live Demo
+   ## 🌐 Video Demo
 
 Not deployed (runs locally via n8n)
 https://www.loom.com/share/2e801fad09d14dcf92515a94c6c517e0
